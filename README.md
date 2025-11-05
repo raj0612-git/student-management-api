@@ -1,4 +1,4 @@
-## 🔖 Project Title
+²## 🔖 Project Title
 **Student Management API – FastAPI (CRUD Application)**
 
 ---
@@ -29,5 +29,3 @@ This project demonstrates how to create endpoints for adding, updating, deleting
 ### 📖 API Documentation
 Once the server is running, visit:
 * Swagger UI → `http://127.0.0.1:8000/docs`
-
-Would you like me to also create a **short one-liner description** (for GitHub repo tagline)?
