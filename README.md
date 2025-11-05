@@ -1,4 +1,4 @@
-²## 🔖 Project Title
+## 🔖 Project Title
 **Student Management API – FastAPI (CRUD Application)**
 
 ---
